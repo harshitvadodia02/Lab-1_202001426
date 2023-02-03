@@ -1,1 +1,20 @@
+Question 1:
+
+Functional Requirements:
+
+Only registered users should be allowed to access the system.
+Users should search for books based on title, date, author, publication, etc. Users should be able to access the location of the books in the library.
+Users should be enable to borrow and return the books of the library.
+Users should have access to change the date of borrowing of the book to be returned.
+System calculates the fine to be taken from the user who has overdue the returning time of the book.
+
+
+Platform/Software should be made available to the users like Web application using HTML 5.
+Librarians should be allowed to add or remove books from the application.
+The software should function within the Institute LAN only.
+
+
+Non Functional Requirements:
+Fast recovery of data has to made by the system if in case the crash of the system has occurred.
+
 
