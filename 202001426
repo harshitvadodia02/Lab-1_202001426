@@ -3,7 +3,8 @@ Question 1:
 Functional Requirements:
 
 Only registered users should be allowed to access the system.
-Users should search for books based on title, date, author, publication, etc. Users should be able to access the location of the books in the library.
+Users should search for books based on title, date, author, publication, etc. 
+Users should be able to access the location of the books in the library.
 Users should be enable to borrow and return the books of the library.
 Users should have access to change the date of borrowing of the book to be returned.
 System calculates the fine to be taken from the user who has overdue the returning time of the book.
@@ -15,6 +16,31 @@ The software should function within the Institute LAN only.
 
 
 Non Functional Requirements:
-Fast recovery of data has to made by the system if in case the crash of the system has occurred.
+
+Fast recovery of data has to be made by the system if in case the crash of the system has occurred.
+The application needs to be secured such that confidential information should not be stored in the plain text.
+The interface is appropriate for users if the user interfaces are user friendly.
+Large number of registration should not slow down the application.
+The database data must be correct, reliable and resourceful.
+Viewers of these web pages should only browse.
+The system should be accessible for 24/7 hours.
+
+
+Question 2:
+
+Scope and Features of the System:
+
+This system is widely used by the people who are suffering from the disabling hearing loss disease.
+System easily to note and differentiate all types of sounds.
+System uses Artificial Intelligence for detecting the sounds of different things.
+Application should alert the user if any type notification has arrived by vibration or the in case of emergent cases system should flash a light with intense color to get the attention of the user and them about the emergency.
+
+Non Functional Aspects:
+
+A good user level interface must be required for the system.
+System should make a search for people who stay near to each other so they can access the system easily.
+System should transcribe or should have the voicemail box who can help them in readable format.
+For the deaf the system should first teach them a small tutorial so that they could find no trouble in further aspects of the system.
+
 
 
